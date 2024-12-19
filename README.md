@@ -1,18 +1,14 @@
 <h1>Hi, I'm Christian!
 
-<h2>👨‍💻 IT Projects:</h2>
-
-
+<h2>👨‍💻 Python Projects:</h2>
+- Password Manager
+- 
+<h2> Developer Projects
+- Building A Landing Page Using CSS & HTML
+- Video Game
+<h> Technical & Repair skills
+- Troubleshoot different Devices:
+  
 <h2> 🤳 Connect with me:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
