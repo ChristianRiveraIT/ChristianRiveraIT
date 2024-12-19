@@ -4,6 +4,7 @@
 - Password Manager
 - 
 <h2> Developer Projects
+  
 - Building A Landing Page Using CSS & HTML
 - Video Game
 <h> Technical & Repair skills
