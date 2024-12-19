@@ -4,7 +4,7 @@
 
 - Password Manager
 
-<h2>Developer Projects
+<h2>Developer Projects:</h2>
   
 - Building A Landing Page Using CSS & HTML
 
