@@ -8,7 +8,7 @@
   
 - Building A Landing Page Using CSS & HTML
 
-<h>Technical & Repair skills
+<h>Technical & Repair skills:</h2>
 
 - Troubleshoot different Devices:
   
