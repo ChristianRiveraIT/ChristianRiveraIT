@@ -13,5 +13,5 @@
 - Troubleshoot different Devices::
   
 <h2> 🤳 Connect with me:</h2>
-
+- LinkedIn: https://www.linkedin.com/in/christian-rivera-530947329/
 
