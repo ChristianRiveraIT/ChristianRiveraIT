@@ -4,13 +4,13 @@
 
 - Password Manager
 
-<h2>Developer Projects:</h2>
+<h2>📈Developer Projects:</h2>
   
 - Building A Landing Page Using CSS & HTML
 
-<h>Technical & Repair skills:</h2>
+<h2>🦾Technical & Repair skills:</h2>
 
-- Troubleshoot different Devices:
+- Troubleshoot different Devices::
   
 <h2> 🤳 Connect with me:</h2>
 
