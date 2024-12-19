@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian!
+<h1>Hello, I'm Christian!
 
 <h2>👨‍💻 Python Projects:</h2>
 
